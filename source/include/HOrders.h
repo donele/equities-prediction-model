@@ -1,0 +1,19 @@
+#ifndef __HOrders_Headers__
+#define __HOrders_Headers__
+#include <HOrders/HFillTime.h>
+#include <HOrders/HFillTimeHist.h>
+#include <HOrders/HOrderSummRead_test.h>
+#include <HOrders/HOrderSummRead.h>
+#include <HOrders/HEurexRead.h>
+#include <HOrders/HOrderSumm.h>
+#include <HOrders/HTradeAna.h>
+#include <HOrders/HTradeAnaGainSig.h>
+#include <HOrders/HTradeAnaGainSigMult.h>
+#include <HOrders/HReturnAna.h>
+#include <HOrders/HCloseToCloseAna.h>
+#include <HOrders/HTradeAnaProfile.h>
+#include <HOrders/HTradeAnaVolume.h>
+#include <HOrders/HMercatorTrades.h>
+#include <HOrders/HOrderAna.h>
+#include <HOrders/HMarketMakingSpeed.h>
+#endif

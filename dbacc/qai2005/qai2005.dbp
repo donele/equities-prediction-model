@@ -1,0 +1,26 @@
+# Microsoft Developer Studio Project File - Database Project
+Begin DataProject = "qai2005"
+   MSDTVersion = "80"
+   DefDBRef = "ODBC.PSYS-SEC-SQL02.qai"
+   Begin Folder = "Change Scripts"
+   End
+   Begin Folder = "Create Scripts"
+   End
+   Begin DBRefFolder = "Database References"
+      Begin DBRefNode = "ODBC.PSYS-SEC-SQL02.qai"
+         ConnectStr = "|Dsn=qai;uid=mercator1;app=Microsoft® Visual Studio® 2005;wsid=SMRC-LTC-MRCT43;database=qai|00440073006e003d007100610069003b007500690064003d006d00650072006300610074006f00720031003b006100700070003d004d006900630072006f0073006f0066007400ae002000560069007300750061006c002000530074007500640069006f00ae00200032003000300035003b0077007300690064003d0053004d00520043002d004c00540043002d004d00520043005400340033003b00640061007400610062006100730065003d007100610069"
+         Provider = "{C3D4F4CE-2C48-4381-B4D6-34FA50C51C86}"
+         Colorizer = 65536
+      End
+   End
+   Begin Folder = "Queries"
+      Query = "CprcdlyCprcinfo.dtq"
+      Query = "futures.dtq"
+      Query = "gprccode.dtq"
+      Query = "Gprcinfo2Gprcval.dtq"
+      Query = "prcinfoprcdly.dtq"
+      Node = "scratch.txt"
+      Query = "test.dtq"
+      Query = "us_uid.dtq"
+   End
+End

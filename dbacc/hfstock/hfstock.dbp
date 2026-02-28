@@ -1,0 +1,19 @@
+# Microsoft Developer Studio Project File - Database Project
+Begin DataProject = "hfstock"
+   MSDTVersion = "80"
+   DefDBRef = "ODBC.smrc-nas03.hfstock"
+   Begin Folder = "Change Scripts"
+   End
+   Begin Folder = "Create Scripts"
+   End
+   Begin DBRefFolder = "Database References"
+      Begin DBRefNode = "ODBC.smrc-nas03.hfstock"
+         ConnectStr = "Dsn=hfstock;uid=mercator1"
+         Provider = "{C3D4F4CE-2C48-4381-B4D6-34FA50C51C86}"
+         Colorizer = 65536
+      End
+   End
+   Begin Folder = "Queries"
+      Query = "test.dtq"
+   End
+End

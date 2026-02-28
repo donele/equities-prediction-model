@@ -1,0 +1,20 @@
+# Microsoft Developer Studio Project File - Database Project
+Begin DataProject = "hfstocktsx"
+   MSDTVersion = "80"
+   DefDBRef = "ODBC.smrc-ltc-mrct50.hfstocktsx"
+   Begin Folder = "Change Scripts"
+   End
+   Begin Folder = "Create Scripts"
+   End
+   Begin DBRefFolder = "Database References"
+      Begin DBRefNode = "ODBC.smrc-ltc-mrct50.hfstocktsx"
+         ConnectStr = "Dsn=hfstocktsx"
+         Provider = "{C3D4F4CE-2C48-4381-B4D6-34FA50C51C86}"
+         Colorizer = 65536
+      End
+   End
+   Begin Folder = "Queries"
+      Query = "orderevents.dtq"
+      Query = "test.dtq"
+   End
+End

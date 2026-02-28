@@ -1,0 +1,28 @@
+pmodel.sh
+  index_all.conf
+  index_range.conf
+  index_auto.conf
+    index_common.conf
+  sample_om_all.conf
+  sample_om_range.conf
+  sample_om_auto.conf
+    sample_om_common.conf
+  sample_tm_all.conf
+  sample_tm_range.conf
+  sample_tm_auto.conf
+    sample_tm_common.conf
+  sample_om_event_all.conf
+  sample_om_event_range.conf
+  sample_om_event_auto.conf
+    sample_om_event_common.conf
+  fit_om.conf
+  fit_tm.conf
+  fit_om_event.conf
+  comp_om.conf
+  comp_tm.conf
+  comp_om_event.conf
+  write_om.conf
+  write_tm.conf
+  write_om_event.conf
+
+

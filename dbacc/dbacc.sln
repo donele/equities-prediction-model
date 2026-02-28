@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "qai2005", "qai2005\qai2005.dbp", "{9B8E834C-C75B-4B45-91C3-3A5C8B6BCA82}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "equitydata", "equitydata\equitydata.dbp", "{FE586EB2-5F1B-4C82-8E14-CCB5EFEE8FB3}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstockasia", "hfstockasia\hfstockasia.dbp", "{3EDABA86-54C4-4729-9ED9-BDFA3ED9A0EF}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstockeu", "hfstockeu\hfstockeu.dbp", "{F541DA02-A934-4129-8C02-8362AD76D3CC}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstocktsx", "hfstocktsx\hfstocktsx.dbp", "{60F8C36B-01E2-4899-86FF-E9BFC362527D}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstock", "hfstock\hfstock.dbp", "{B29EBAAD-46B0-46A1-96B8-5F17FD6AE9DA}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstockma", "hfstockma\hfstockma.dbp", "{CE9018D7-DCAB-44D4-AA03-8423A275F2B5}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstocksa", "hfstocksa\hfstocksa.dbp", "{1BCB43B3-0171-4CF3-8BDA-E17B440BCA33}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstocktsx_hist", "hfstocktsx_hist\hfstocktsx_hist.dbp", "{B2494682-5214-4E98-9D86-D3CBDAB72C5D}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstockasia_hist", "hfstockasia_hist\hfstockasia_hist.dbp", "{EC0666DA-243F-4A23-BCB9-AF338FC52F86}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstockeu_hist", "hfstockeu_hist\hfstockeu_hist.dbp", "{17B6882B-A701-4DD6-A235-0481E71AB03A}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstocktsx_20081130", "hfstocktsx_20081130\hfstocktsx_20081130.dbp", "{3713A5AC-31B1-4F67-9A29-F76CF9891248}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstock_us_20090410", "hfstock_us_20090410\hfstock_us_20090410.dbp", "{830092A0-6BE6-476B-AF42-C62EE1E6E3F7}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfDebug", "hfDebug\hfDebug.dbp", "{7A0F22C9-A725-404F-AA7A-5CA9DC7C839E}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstock_debug", "hfstock_debug\hfstock_debug.dbp", "{B345DE07-1BA6-4CE6-BEBF-338838B0303F}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "hfstockasia_debug", "hfstockasia_debug\hfstockasia_debug.dbp", "{6078458B-81C9-4DB8-9BCA-4905ECD05C85}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+param.sh
+  param_index.conf
+  param_sample.conf
+
+  write_index.conf
+  write_weight_US.conf
+  write_weight.conf
+

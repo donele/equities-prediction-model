@@ -1,0 +1,29 @@
+#ifndef __NewsCatRPGlobal__
+#define __NewsCatRPGlobal__
+#include <string>
+#include <map>
+
+#ifdef _WIN32
+#define CLASS_DECLSPEC __declspec(dllexport)
+#define FUNC_DECLSPEC __declspec(dllexport)
+#else
+#define CLASS_DECLSPEC
+#define FUNC_DECLSPEC
+#endif
+
+class CLASS_DECLSPEC NewsCatRPGlobal {
+public:
+	NewsCatRPGlobal();
+	~NewsCatRPGlobal();
+
+	int cat2i(std::string cat);
+	std::string i2cat(int i);
+	int i2iGroup(int i);
+
+private:
+	std::map<std::string, int> m_;
+
+	void initMap();
+};
+
+#endif
